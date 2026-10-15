@@ -1,0 +1,20 @@
+# Godot-generated files
+.godot/
+.import/
+export.cfg
+export_presets.cfg.local
+
+# Build products
+build/
+*.apk
+*.aab
+*.pck
+
+# Android custom build products; templates are downloaded by CI
+android/build/
+android/.gradle/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.tmp
